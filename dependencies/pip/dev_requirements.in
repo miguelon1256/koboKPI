@@ -1,0 +1,8 @@
+-r requirements.in
+
+Fabric
+ipython
+pytest-django
+pytest-env
+pytest
+mock
